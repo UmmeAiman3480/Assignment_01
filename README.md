@@ -114,9 +114,3 @@ Ensure both images are grayscale-compatible (color images are converted to grays
 - **For comparison/loading only:** OpenCV, scikit-image (e.g. `cv2.equalizeHist`, `cv2.filter2D`, `cv2.GaussianBlur`, `cv2.Canny` are used only for verification, not as the main solution).  
 - **Not allowed for core tasks:** Library functions that directly solve the task (e.g. must not use `cv2.equalizeHist` for Q1(a) implementation).
 
----
-
-## Contact / Submission
-
-- Add the TA as collaborator: [mariamffatima](https://github.com/mariamffatima)  
-- Submit the **GitHub repository link**, **Report (PDF)**, and **Notebook (.ipynb)** as per assignment instructions.
