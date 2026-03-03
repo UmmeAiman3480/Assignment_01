@@ -13,7 +13,10 @@ aiman/
 ├── 22f_3480_Assignment_01.ipynb   # Main notebook with all implementations
 ├── A1_CV(8A).pdf                   # Assignment handout
 ├── report.md                       # Project report (key insights, analysis, findings)
-└── test_images/                    # (Optional) Place your test images here
+|── OIP.jpg
+├──OIP (1).jpg
+
+                  
 ```
 
 ---
